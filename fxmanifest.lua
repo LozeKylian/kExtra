@@ -29,7 +29,7 @@ client_scripts {
     "src/client/menu/panels/UIStatisticsPanel.lua",
     "src/client/menu/windows/UIHeritage.lua",
 }
---client_script('@korioz/lib.lua')
+
 client_script {
     'client/main.lua'
 }
